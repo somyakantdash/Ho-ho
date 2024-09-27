@@ -25,3 +25,7 @@ After reset 👇
 pm disable-user --user 0 com.sec.enterprise.knox.cloudmdm.smdms
 ```
 ⚠️ sare Command small letters me dale jayenge.. space ki bhi galti mt karna... sb jagah only single space hai.
+
+https://shizuku.en.softonic.com/android
+
+https://f-droid.org/en/packages/in.sunilpaulmathew.ashell/
